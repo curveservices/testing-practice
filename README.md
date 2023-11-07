@@ -37,7 +37,7 @@ object == {
 <a href="https://javascript.info/">
     <img width="100" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a> 
 <a href="https://git-scm.com/">
-    <img width="100" alt="GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /></a>
+    <img width="100" alt="GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 <a href="https://jestjs.io/">
     <img width="100" alt="JEST" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
           
